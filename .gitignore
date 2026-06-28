@@ -1,0 +1,9 @@
+node_modules/
+.DS_Store
+src/.DS_Store
+server/.DS_Store
+*.pdf
+resume_preview_final.png
+NSUT_logo.png
+Tushar_Girdher_Resume-main.pdf
+Tushar_Girdher_Resume_NSUT.pdf
